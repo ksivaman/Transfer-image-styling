@@ -5,4 +5,15 @@ https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_St
 
 <figure>
   <img src="imgs/purdue_arc.jpg" width="400" >
+  <figcaption>Original content image</figcaption>
+</figure>
+
+<figure>
+  <img src="imgs/starry_night.jpg" width="400" >
+  <figcaption>Style image: Starry Night</figcaption>
+</figure>
+
+<figure>
+  <img src="imgs/purdue_starry_night.jpg" width="400" >
+  <figcaption>Final image</figcaption>
 </figure>
