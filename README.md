@@ -4,20 +4,16 @@ This project uses the VGG-19 pretrained network to transfer the style/texture of
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 <figure>
-  <img src="imgs/purdue_arc.jpg" width="400">
   <figcaption>Original content image</figcaption>
+  <img src="imgs/purdue_arc.jpg" width="400">
 </figure>
 
-
-
 <figure>
-  <img src="imgs/starry_night.jpg" width="400">
   <figcaption>Style image: Starry Night</figcaption>
+  <img src="imgs/starry_night.jpg" width="400">
 </figure>
 
-
-
 <figure>
-  <img src="imgs/purdue_starry_night.jpg" width="400">
   <figcaption>Final image</figcaption>
+  <img src="imgs/purdue_starry_night.jpg" width="400">
 </figure>
